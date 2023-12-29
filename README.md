@@ -42,7 +42,7 @@ print(nom)
 
 # Infinity Norm of a Matrix
 ```
-Program to findInfinity Norm of a Matrix.
+Program to find Infinity Norm of a Matrix.
 Developed by: abdul kalaam k m
 RegisterNumber: 23005114
 
